@@ -1,8 +1,6 @@
 Coloquem algum texto no arquivo.
 Estou escrevendo na terceira linha.
 
-alterando
-
 Vou para a quinta linha.
 
 Alterando para testar o editor global como sendo o 
