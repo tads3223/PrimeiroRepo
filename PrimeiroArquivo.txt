@@ -1,7 +1,7 @@
 Coloquem algum texto no arquivo.
 Estou escrevendo na terceira linha.
 
-Vou para a quinta linha.
+Vou para a quinta linha. Modificando a 4a linha
 
 Alterando para testar o editor global como sendo o 
 visual studio code.
