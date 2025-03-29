@@ -1,1 +1,4 @@
 arquivo criado para testar alteração de pasta
+
+Criar esta linha para ver o merge automatico dos
+arquivos.
